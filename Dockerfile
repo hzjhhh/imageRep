@@ -1,5 +1,5 @@
 # 使用官方 Node.js 基础镜像
-FROM registry.cn-hangzhou.aliyuncs.com/acs/node:18-slim
+FROM registry.crpi-5rm2us2r075mztm2.cn-beijing.personal.cr.aliyuncs.com/hzj_dev/node:18-slim
 
 # 设置工作目录
 WORKDIR /app
